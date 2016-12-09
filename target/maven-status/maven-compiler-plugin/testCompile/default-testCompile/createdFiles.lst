@@ -1,0 +1,5 @@
+com/browserstack/BrowserStackJUnitTest.class
+com/browserstack/Parallelized.class
+com/browserstack/LocalTest.class
+com/browserstack/Parallelized$ThreadPoolScheduler.class
+com/browserstack/SingleTest.class

@@ -1,0 +1,16 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "tlido1",
+  "key": "stw6drv9qCreXpgTaDAm",
+
+  "capabilities": {
+    "build": "praveen-junit",
+    "name": "single_test",
+    "browserstack.debug": true
+
+  },
+
+  "environments": [{
+    "browser": "chrome"
+  }]
+}
