@@ -1,4 +1,4 @@
-/code/java/junit-browserstack/src/test/java/com/browserstack/Parallelized.java
-/code/java/junit-browserstack/src/test/java/com/browserstack/SingleTest.java
-/code/java/junit-browserstack/src/test/java/com/browserstack/BrowserStackJUnitTest.java
-/code/java/junit-browserstack/src/test/java/com/browserstack/LocalTest.java
+/code/java/praveen-junit/src/test/java/com/browserstack/SingleTest.java
+/code/java/praveen-junit/src/test/java/com/browserstack/Parallelized.java
+/code/java/praveen-junit/src/test/java/com/browserstack/BrowserStackJUnitTest.java
+/code/java/praveen-junit/src/test/java/com/browserstack/LocalTest.java
