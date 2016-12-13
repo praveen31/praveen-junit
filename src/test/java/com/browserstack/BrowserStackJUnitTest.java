@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Iterator;
 import org.json.simple.JSONObject;
 import org.json.simple.JSONArray;
-import org.json.simple.parser.JSONParser;;
+import org.json.simple.parser.JSONParser;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -64,7 +64,7 @@ public class BrowserStackJUnitTest {
             Map.Entry pair = (Map.Entry)it.next();
             capabilities.setCapability(pair.getKey().toString(), pair.getValue().toString());
         }
-        
+
         Map<String, String> commonCapabilities = (Map<String, String>) config.get("capabilities");
         it = commonCapabilities.entrySet().iterator();
         while (it.hasNext()) {
