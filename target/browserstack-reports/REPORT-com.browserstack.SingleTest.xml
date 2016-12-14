@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><testsuite name="com.browserstack.SingleTest">
 <testcase class="SingleTest" classname="com.browserstack.SingleTest" id="com.browserstack.SingleTest.checkContactSalesForm{0}" index="0" name="checkContactSalesForm" package="com.browserstack">
-<session>104f65ed3079c8588d8513f91b05fcf77807fa81</session>
-</testcase>
-<testcase class="SingleTest" classname="com.browserstack.SingleTest" id="com.browserstack.SingleTest.loginAutomateRunTest{0}" index="0" name="loginAutomateRunTest" package="com.browserstack">
-<session>591218c0f99ebf0ec58c954f46b95c4451d7575a</session>
+<session>636ec40b778bacf9c084b2dd1b5a76274c469732</session>
 </testcase>
 </testsuite>

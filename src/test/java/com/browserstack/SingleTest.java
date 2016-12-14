@@ -18,7 +18,7 @@ public class SingleTest extends BrowserStackJUnitTest {
     driver.get("https://www.browserstack.com/automate");
     WebElement getStarted = wait.until(ExpectedConditions.elementToBeClickable(By.linkText("Get started")));
     getStarted.click();
-    WebElement emailField = wait.until(ExpectedConditions.elementToBeClickable(By.id("user_email2_login")));
+    WebElement emailField = wait.until(ExpectedConditions.elementToBeClickable(By.id("user_email_login")));
   	emailField.clear();
   	emailField.sendKeys("praveen@browserstack.com");
     WebElement pwdField = wait.until(ExpectedConditions.elementToBeClickable(By.id("user_password")));
